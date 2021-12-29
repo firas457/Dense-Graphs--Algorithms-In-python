@@ -37,4 +37,9 @@ To implement there classes we added a clas "Node" , wich represents a node in th
 ### check1() :<br />
 ![ScreenShot2](https://user-images.githubusercontent.com/94143804/147658332-1e9a76c0-4a3f-40e1-89f3-89eb30a3a629.jpeg)<br />
 ### check2() :<br />
-![ScreenShot3](https://user-images.githubusercontent.com/94143804/147658336-d7fa559f-4e1e-4614-8306-82aed47f54d2.jpeg)
+![ScreenShot3](https://user-images.githubusercontent.com/94143804/147658336-d7fa559f-4e1e-4614-8306-82aed47f54d2.jpeg)<br />
+
+## UML diagram :<br />
+![UML_diagram](https://user-images.githubusercontent.com/94143804/147659608-714a2b6b-4fd4-4e5e-82d4-83c228282028.jpeg)
+
+
