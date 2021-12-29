@@ -29,7 +29,7 @@ There are two main classes that implement the intefaces :<br />
  - centerPoint : returns the node that has the shortest distance from all other nodes <br /> 
  - plot_graph : represents the graph<br />
  
-To implement there classes we added a clas "Node" , wich represents a node in the graph and each node has a dictionary for the coming/outgoing edges <br />
+To implement there classes we added a class "Node" , wich represents a node in the graph and each node has a dictionary for the coming/outgoing edges <br />
 
 ## Screen shots :<br />
 ### check0() :<br />
