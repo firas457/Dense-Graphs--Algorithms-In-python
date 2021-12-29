@@ -31,4 +31,5 @@ There are two main classes that implement the intefaces :<br />
  
 To implement there classes we added a clas "Node" , wich represents a node in the graph and each node has a dictionary for the coming/outgoing edges <br />
 ![ScreenShot1](https://user-images.githubusercontent.com/94143804/147658322-538d0f9d-38be-4f25-9e17-fae0a443b67f.jpeg)<br />
-![ScreenShot2](https://user-images.githubusercontent.com/94143804/147658332-1e9a76c0-4a3f-40e1-89f3-89eb30a3a629.jpeg)
+![ScreenShot2](https://user-images.githubusercontent.com/94143804/147658332-1e9a76c0-4a3f-40e1-89f3-89eb30a3a629.jpeg)<br />
+![ScreenShot3](https://user-images.githubusercontent.com/94143804/147658336-d7fa559f-4e1e-4614-8306-82aed47f54d2.jpeg)
