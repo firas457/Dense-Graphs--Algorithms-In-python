@@ -30,4 +30,4 @@ There are two main classes that implement the intefaces :<br />
  - plot_graph : represents the graph<br />
  
 To implement there classes we added a clas "Node" , wich represents a node in the graph and each node has a dictionary for the coming/outgoing edges <br />
-![github_im](file:///C:/Users/nael_/Desktop/images/WhatsApp%20Image%202021-12-29%20at%2013.20.17.jpeg)
+![ScreenShot1](https://user-images.githubusercontent.com/94143804/147658322-538d0f9d-38be-4f25-9e17-fae0a443b67f.jpeg)
