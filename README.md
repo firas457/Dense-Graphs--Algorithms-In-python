@@ -1,5 +1,5 @@
 # Object Oriented programming
-# Directed Weighted Graph Implementation - Python
+# Directed Weighted Graph + Algorithms Implementation - Python
 
 ##### This project represents a Directed Weighted Graph in python .
 
